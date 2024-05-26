@@ -1,4 +1,4 @@
-![logo](https://github.com/Shekharp-45/Shekhar-45/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
+![logo](https://github.com/Shekharp-45/Shekharp-45/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shekhar Patil</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
